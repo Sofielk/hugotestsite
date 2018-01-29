@@ -15,3 +15,15 @@ name = "Blog"
 weight = -101
 identifier = "blog"
 url = "/blog/"
+
+[[menu.main]]
+name = "Contact"
+weight = -101
+identifier = "contact"
+url = "/kontakt/"
+
+[[menu.main]]
+name = "Info"
+weight = -101
+identifier = "info"
+url = "/om/"
