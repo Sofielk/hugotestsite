@@ -6,19 +6,25 @@ theme = "cocoa"
 
 [[menu.main]]
 name = "Home"
-weight = -201
+weight = -501
 identifier = "home"
 url = "/"
 
 [[menu.main]]
 name = "Blog"
-weight = -101
+weight = -401
 identifier = "blog"
 url = "/blog/"
 
 [[menu.main]]
+name = "Portfolio"
+weight = -301
+identifier = "portfolio"
+url = "/portfolio/"
+
+[[menu.main]]
 name = "Contact"
-weight = -101
+weight = -201
 identifier = "contact"
 url = "/kontakt/"
 
