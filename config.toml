@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "http://soliki.dk/kea/3semester/hugotestsite/content/_index.md"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "cocoa"
+publishDir = "docs"
 extracssfiles          = [ "/css/override.css" ]
 
 
